@@ -1,4 +1,4 @@
-# 🦉 GRIGLINGO
+# 🦉 Tytos - aprendizado para idiomas
 
 > Plataforma web de aprendizado de idiomas com lições curtas e gamificadas (vidas, XP, ranking e missões).
 
